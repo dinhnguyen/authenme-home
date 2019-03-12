@@ -1,3 +1,35 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+
+[[menu.main]]
+    identifier = "index"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = -150
+
+[[menu.main]]
+    identifier = "privacy"
+    name = "Privacy"
+    title = "Authen.me Privacy & Cookie Policy"
+    url = "/privacy/"
+    weight = -140
+[[menu.main]]
+    identifier = "term"
+    name = "Terms of Service"
+    title = "Terms of Service"
+    url = "/terms-of-service/"
+    weight = -130
+[[menu.main]]
+    identifier = "aboutus"
+    name = "About us"
+    title = "About us"
+    url = "/about-us/"
+    weight = -120
+[[menu.main]]
+    identifier = "register"
+    name = "Sign Up"
+    title = "Sign Up"
+    url = "/about-us/"
+    weight = -120

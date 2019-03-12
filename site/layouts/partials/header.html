@@ -1,0 +1,28 @@
+<header data-block-type="headers" data-id="1" class="bg-dark">
+	<div class="container">
+		<nav class="navbar navbar-expand-md">
+		<a class="navbar-brand" href="#">
+			<img src="/img/logo-blue.svg" height="30" alt="image">
+		</a>
+
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav3" aria-controls="navbarNav3" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarNav3">
+			<ul class="navbar-nav ml-auto">
+				{{ $currentPage := . }}
+				{{ range .Site.Menus.main }}
+					<li class="nav-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+						<a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+					</li>
+				{{ end }}
+
+
+			</ul>
+
+			<a class="btn btn-outline-primary ml-md-3 fr-view" href="#">Login</a>
+		</div>
+		</nav>
+	</div>
+</header>
