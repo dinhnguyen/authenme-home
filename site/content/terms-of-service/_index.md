@@ -2,7 +2,7 @@
 title: "Terms of Use"
 ---
 
-### Last Update: May 31, 2018
+### Last Update: March 31, 2019
 
 ### Introduction
 

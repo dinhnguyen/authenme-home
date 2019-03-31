@@ -2,7 +2,7 @@
 title: "Authen.me Privacy & Cookie Policy"
 ---
 
-### Last update: November 30, 2018
+### Last update: March 31, 2019
 
 This is the Privacy & Cookie Policy for the website hosted at https://authen.me/ ("our site"), and for other authen.me activities at which you may provide your personal data, such as sponsored events or trade shows. The site is operated by or on behalf of authen.me ("we","us"). We are committed to protecting and respecting your privacy.
 
@@ -221,7 +221,6 @@ Cookie Policy
 #### Strictly Necessary Cookies
 
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
 
 ------
 
