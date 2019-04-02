@@ -31,5 +31,5 @@ title = "Homepage"
     identifier = "register"
     name = "Sign Up"
     title = "Sign Up"
-    url = "/about-us/"
+    url = "https://app.authen.me/register"
     weight = -120
